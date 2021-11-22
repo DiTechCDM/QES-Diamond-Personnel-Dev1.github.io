@@ -1567,6 +1567,13 @@ body, html {
     .grid-wrapper #h2_sec {
         margin-top: 1rem;
     }
+    #mb_002 {
+        margin-bottom: 0rem;
+    }
+
+    #mt_001 {
+        margin-top: 0rem;
+    }
 }
 
 @media screen and (max-width: 538px) {
